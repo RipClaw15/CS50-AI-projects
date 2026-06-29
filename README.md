@@ -39,9 +39,9 @@ This isn't just homework. This is my practical foundation in classical AI and ma
 
 ## Let's Connect
 
-- **LinkedIn:** [https://www.linkedin.com/in/csongorosz/]
-- **Email:** [csongorosz@gmail.com]
-- **Portfolio:** [https://csongorosz.com/]
+- **LinkedIn:** https://www.linkedin.com/in/csongorosz/
+- **Email:** csongorosz@gmail.com
+- **Portfolio:** https://csongorosz.com/
 
 ---
 
