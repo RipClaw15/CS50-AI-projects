@@ -1,0 +1,2 @@
+I tried to experiment with the baseline model, the recommended architecture. I used a two layer conv (32 and 64 filters), I used max pooling, flatten, dense 128 and dropout 0.5. 
+With the default 30 by 30 image sizes and 10 epochs, the model achieved 0.96 (96%) accuracy and 0.13 loss. 
