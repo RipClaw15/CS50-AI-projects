@@ -11,7 +11,7 @@ This isn't just homework. This is my practical foundation in classical AI and ma
 | Project | Core Concept | Tech Stack | Quick Take |
 |---------|--------------|------------|------------|
 | **[Traffic](https://github.com/RipClaw15/CS50-AI-projects/tree/main/week5/traffic)** | Computer Vision (CNN) | Python, TensorFlow | Classifies road signs using convolutional neural networks |
-| **[Attention](https://github.com/RipClaw15/CS50-AI-projects/tree/main/week6/attention)** | Transformer Architecture | Python, PyTorch | Implements scaled dot-product attention—the core of modern LLMs like ChatGPT |
+| **[Attention](https://github.com/RipClaw15/CS50-AI-projects/tree/main/week6/attention)** | Transformer Attention Visualization | Python, TensorFlow, Hugging Face Transformers | Loads BERT to predict masked tokens and **generates self-attention heatmap diagrams from scratch**—visualizing how the model weighs relationships between words |
 | **[Shopping](https://github.com/RipClaw15/CS50-AI-projects/tree/main/week4/shopping)** | Supervised Learning | Python, scikit-learn | Predicts user intent using k-NN and Naive Bayes |
 | **[Parser](https://github.com/RipClaw15/CS50-AI-projects/tree/main/week6/parser)** | Natural Language Processing | Python, NLTK | Context-free grammar for extracting noun phrases |
 | **[Heredity](https://github.com/RipClaw15/CS50-AI-projects/tree/main/week2/heredity)** | Bayesian Inference (Exhaustive Enumeration) | Python | Brute-force calculates posterior genetic probabilities across all possible family trait combinations |
