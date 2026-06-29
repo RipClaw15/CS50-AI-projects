@@ -31,6 +31,17 @@ This isn't just homework. This is my practical foundation in classical AI and ma
 - **NLP:** Tokenization, parsing, contextual understanding
 - **ML:** K-Nearest Neighbors, cross-validation, feature selection
 
+https://certificates.cs50.io/61ce53c1-dab4-442a-a1fd-4951128ca081.pdf?size=letter
+## Certification
+
+This repository contains my complete project submissions for **Harvard's CS50's Introduction to Artificial Intelligence with Python**. 
+
+[![CS50 AI Certificate](https://img.shields.io/badge/Harvard-CS50_AI-blue?style=for-the-badge&logo=edx)](https://certificates.cs50.io/61ce53c1-dab4-442a-a1fd-4951128ca081.pdf?size=letter)
+
+> *"Issued by Harvard University via edX. Validates foundational knowledge in search, knowledge representation, machine learning, and neural networks."*
+
+**[View my verified certificate here](https://certificates.cs50.io/61ce53c1-dab4-442a-a1fd-4951128ca081.pdf?size=letter)**
+
 ## Current Build: Medical Symptom Checker
 
 > *Coming soon: Combining the Bayesian logic from Heredity with the NLP parser to create an interactive diagnostic tool.*
