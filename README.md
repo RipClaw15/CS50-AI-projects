@@ -12,15 +12,15 @@ This isn't just homework. This is my practical foundation in classical AI and ma
 |---------|--------------|------------|------------|
 | **[Traffic](https://github.com/RipClaw15/CS50-AI-projects/tree/main/week5/traffic)** | Computer Vision (CNN) | Python, TensorFlow | Classifies road signs using convolutional neural networks |
 | **[Attention](https://github.com/RipClaw15/CS50-AI-projects/tree/main/week6/attention)** | Transformer Architecture | Python, PyTorch | Implements scaled dot-product attention—the core of modern LLMs like ChatGPT |
+| **[Shopping](https://github.com/RipClaw15/CS50-AI-projects/tree/main/week4/shopping)** | Supervised Learning | Python, scikit-learn | Predicts user intent using k-NN and Naive Bayes |
+| **[Parser](https://github.com/RipClaw15/CS50-AI-projects/tree/main/week6/parser)** | Natural Language Processing | Python, NLTK | Context-free grammar for extracting noun phrases |
+| **[Heredity](https://github.com/RipClaw15/CS50-AI-projects/tree/main/week2/heredity)** | Bayesian Networks | Python, pomegranate | Calculates genetic inheritance probabilities from family traits |
 | **[Crossword](https://github.com/RipClaw15/CS50-AI-projects/tree/main/week3/crossword)** | Constraint Satisfaction | Python | Generates crossword puzzles by solving variable assignment problems |
 | **[Nim](https://github.com/RipClaw15/CS50-AI-projects/tree/main/week4/nim)** | Reinforcement Learning | Python | Self-learning AI that masters the game through Q-learning |
 | **[Degrees](https://github.com/RipClaw15/CS50-AI-projects/tree/main/week0/degrees)** | Shortest Path (BFS) | Python | Finds the "Kevin Bacon" connection between actors using IMDb data |
 | **[Tic-Tac-Toe](https://github.com/RipClaw15/CS50-AI-projects/tree/main/week0/tictactoe)** | Adversarial Search (Minimax) | Python | Undefeatable AI with alpha-beta pruning |
 | **[Minesweeper](https://github.com/RipClaw15/CS50-AI-projects/tree/main/week1/minesweeper)** | Knowledge Representation | Python | Inference engine that deduces safe moves and mines |
 | **[Knights](https://github.com/RipClaw15/CS50-AI-projects/tree/main/week1/knights)** | Propositional Logic | Python | Solves logic puzzles by checking model satisfiability |
-| **[Parser](https://github.com/RipClaw15/CS50-AI-projects/tree/main/week6/parser)** | Natural Language Processing | Python, NLTK | Context-free grammar for extracting noun phrases |
-| **[Heredity](https://github.com/RipClaw15/CS50-AI-projects/tree/main/week2/heredity)** | Bayesian Networks | Python, pomegranate | Calculates genetic inheritance probabilities from family traits |
-| **[Shopping](https://github.com/RipClaw15/CS50-AI-projects/tree/main/week4/shopping)** | Supervised Learning | Python, scikit-learn | Predicts user intent using k-NN and Naive Bayes |
 | **[PageRank](https://github.com/RipClaw15/CS50-AI-projects/tree/main/week2/pagerank)** | Random Surfer Model | Python | Maps web page importance via Markov chains |
 
 ## What I Learned (And Can Now Build)
