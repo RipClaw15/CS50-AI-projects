@@ -31,7 +31,6 @@ This isn't just homework. This is my practical foundation in classical AI and ma
 - **NLP:** Tokenization, parsing, contextual understanding
 - **ML:** K-Nearest Neighbors, cross-validation, feature selection
 
-https://certificates.cs50.io/61ce53c1-dab4-442a-a1fd-4951128ca081.pdf?size=letter
 ## Certification
 
 This repository contains my complete project submissions for **Harvard's CS50's Introduction to Artificial Intelligence with Python**. 
